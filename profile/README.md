@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src="/github-banner-dark.png" />
 <!--
 
 **Here are some ideas to get you started:**
